@@ -14,7 +14,7 @@
     "develop": "babel -w src/index.js -o index.js",
     "deploy": "npm publish"
   },
-  "author": "Halo Lab",
+  "author": "",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.6.1",
