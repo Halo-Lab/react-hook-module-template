@@ -2,6 +2,7 @@
 .vscode
 build
 node_modules
+src
 .eslintrc
 .prettierrc
 .npmignore

@@ -15,7 +15,7 @@ NPM module will be connected to the React Host Project using `npm link`. Project
 <br />
 ## Available script commands
 
-Build module project to `src/index.js` -> `index.js`.
+Build `src` to `lib` folder.
 ```
 npm run build
 ```
@@ -58,7 +58,7 @@ npm run deploy
     npm i
     ```
 
-4. An initial build command will compile all files from `/src` folder to a single `index.js` file. 
+4. An initial build command will compile all files from `/src` folder to a single `/lib` folder. 
     ```
     npm run build
     ```
